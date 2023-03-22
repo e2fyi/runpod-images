@@ -26,6 +26,7 @@ The script will
 - stop the pod (`NOTE` NOT terminate)
 
 You will need to provide the following env variables:
+- `HF_EMAIL`
 - `HF_REPO`
 - `HF_MODEL`
 - `HF_TOKEN`

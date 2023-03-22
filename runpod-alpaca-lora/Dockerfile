@@ -1,4 +1,4 @@
-FROM ghcr.io/e2fyi/runpod-images:base-v2023.3.21
+FROM ghcr.io/e2fyi/runpod-images:base-v2023.3.23
 
 WORKDIR /home/
 RUN git clone --depth 1 https://github.com/tloen/alpaca-lora.git
